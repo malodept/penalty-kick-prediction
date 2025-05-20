@@ -1,4 +1,4 @@
-⚽ Penalty Kick Prediction – Pose Estimation & Machine Learning
+# ⚽ Penalty Kick Prediction – Pose Estimation & Machine Learning
 
 This project explores how a machine learning model can anticipate the direction of a penalty kick — **left**, **center**, or **right** — based solely on the **body movements** of the kicker *before the ball is hit*.
 
